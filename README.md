@@ -1,4 +1,4 @@
-<h1><br/>Welcome to my <a href="https://github.com/JanelleLemus">IT Portfolio</a> 👨‍💻 I'm Janelle, a Cybersecurity Analysis in training. I am extremely passionate about working in the IT field, I enjoy learning new skills and problem solving difficult scenarios. My goal is to become an Expert Ethical Hacker</h1>
+<h1><br/>Welcome to my <a href="https://github.com/JanelleLemus">IT Portfolio</a> 👨‍💻 I'm Janelle, a Cybersecurity Analyst in training. I am extremely passionate about working in the IT field, I enjoy learning new skills and problem solving difficult scenarios. My goal is to become an Expert Ethical Hacker</h1>
 
 <h2>💬 Projects In The Works:</h2> 
   
